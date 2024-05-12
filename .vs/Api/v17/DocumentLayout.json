@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\model\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\dto\\customemailerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\dto\\customemailerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\model\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\model\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\repository\\repoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\repository\\repoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\repository\\irepoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\repository\\irepoemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|c:\\users\\ahmed esmat\\source\\repos\\demo\\api\\api\\migrations\\20240505071848_resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4DA5F-5F00-4E09-B77B-F473B4A13C94}|Api\\Api.csproj|solutionrelative:api\\migrations\\20240505071848_resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Api\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Api\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:51:02.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Api\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Api\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:34:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:48:18.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:04:36.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:35:36.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T06:40:14.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\Employees.cs",
+              "RelativeDocumentMoniker": "Api\\Model\\Employees.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\Employees.cs",
+              "RelativeToolTip": "Api\\Model\\Employees.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:00:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomEmailErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\CustomEmailErrorDescriber.cs",
+              "RelativeDocumentMoniker": "Api\\DTO\\CustomEmailErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\DTO\\CustomEmailErrorDescriber.cs",
+              "RelativeToolTip": "Api\\DTO\\CustomEmailErrorDescriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:43:46.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\Context.cs",
+              "RelativeDocumentMoniker": "Api\\Model\\Context.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\Context.cs",
+              "RelativeToolTip": "Api\\Model\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:24:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Api\\Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "Api\\Model\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:24:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Repository\\RepoEmployees.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\RepoEmployees.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Repository\\RepoEmployees.cs",
+              "RelativeToolTip": "Api\\Repository\\RepoEmployees.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wDYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:34:21.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepoEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Repository\\IRepoEmployees.cs",
+              "RelativeDocumentMoniker": "Api\\Repository\\IRepoEmployees.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Repository\\IRepoEmployees.cs",
+              "RelativeToolTip": "Api\\Repository\\IRepoEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:21:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240505071848_resume.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Migrations\\20240505071848_resume.cs",
+              "RelativeDocumentMoniker": "Api\\Migrations\\20240505071848_resume.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Migrations\\20240505071848_resume.cs",
+              "RelativeToolTip": "Api\\Migrations\\20240505071848_resume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:18:49.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\Demo\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T11:59:07.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
